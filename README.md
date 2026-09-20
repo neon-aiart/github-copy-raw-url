@@ -56,7 +56,7 @@ A userscript for GitHub file directories that enables one-click "Raw URL copying
   * **ScriptCat**: [https://scriptcat.org/](https://scriptcat.org/)  
 
 * **スクリプトをインストール (Install the script):**  
-  * [Greasy Fork](https://greasyfork.org/scripts/...) にアクセスし、「インストール」ボタンを押してください  
+  * [Greasy Fork](https://greasyfork.org/scripts/596594) にアクセスし、「インストール」ボタンを押してください  
      Access and click the "Install" button.  
 
 ---
