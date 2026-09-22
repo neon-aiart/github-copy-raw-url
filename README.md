@@ -1,4 +1,4 @@
-# 📋 GitHub Copy Raw File URL and Download File
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d1d7e0"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" draggable="false" style="height: 1.3em; width: 1.3em; vertical-align: -0.3em; display: inline-block;" alt="😺"></picture> GitHub Copy Raw File URL and Download File
 
 [![Version](https://img.shields.io/badge/version-1.3-orange.svg)](https://github.com/neon-aiart/github-copy-raw-url)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
