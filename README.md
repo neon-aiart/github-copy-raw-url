@@ -1,4 +1,4 @@
-# <img src="https://cdn.simpleicons.org/github/d1d7e0#gh-dark-mode-only" draggable="false" width="36px" alt="😺"><img src="https://cdn.simpleicons.org/github/181717#gh-light-mode-only" draggable="false" width="36px" alt="😺"> GitHub Copy Raw File URL and Download File
+# 😺 GitHub Copy Raw File URL and Download File
 
 [![Version](https://img.shields.io/badge/version-1.3-orange.svg)](https://github.com/neon-aiart/github-copy-raw-url)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
