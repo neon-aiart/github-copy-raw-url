@@ -28,7 +28,7 @@
  *   - ©️ 2026 Tailwind Labs, Inc.: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
  * - GitHub Logos & Trademarks:
  *   - ©️ GitHub, Inc. Used in accordance with GitHub Logo Guidelines: https://github.com/logos
-==============================================================================  */
+============================================================================== */
 
 (function () {
     'use strict';
