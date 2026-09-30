@@ -1,4 +1,4 @@
-# <img src="./.svg/github-dark.svg#gh-dark-mode-only" width="32" height="32" alt="🐾"><img src="./.svg/github-light.svg#gh-light-mode-only" width="32" height="32" alt="🐾"> GitHub Copy Raw File URL and Download File
+# <img src="./.svg/github-dark.svg#gh-dark-mode-only" width="32" height="32" draggable="false" alt="🐾"><img src="./.svg/github-light.svg#gh-light-mode-only" width="32" height="32" draggable="false" alt="🐾"> GitHub Copy Raw File URL and Download File
 
 [![Version](https://img.shields.io/badge/version-1.3-orange.svg)](https://github.com/neon-aiart/github-copy-raw-url)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
