@@ -1,4 +1,4 @@
-# 😺 GitHub Copy Raw File URL and Download File
+# <img src="./.svg/github-dark.svg#gh-dark-mode-only" width="32" height="32" align="center" alt="🐾"><img src="./.svg/github-light.svg#gh-light-mode-only" width="32" height="32" align="center" alt="🐾"> GitHub Copy Raw File URL and Download File
 
 [![Version](https://img.shields.io/badge/version-1.3-orange.svg)](https://github.com/neon-aiart/github-copy-raw-url)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -83,13 +83,23 @@ No Tasks...
 
 ---
 
-## 🛡️ ライセンス・クレジット  
+## 🛡️ ライセンスについて (License)  
 
 このユーザースクリプトのソースコードは、ねおんが著作権を保有しています  
+The source code for this application is copyrighted by Neon.  
 
 * **Base Code**: [人民的勤务员](https://greasyfork.org/users/1169082)様のスクリプトの設計思想を参考にさせていただきました  
   GitHub Copy Raw File URL and Download File v2.2.0.22: [https://greasyfork.org/scripts/505501](https://greasyfork.org/scripts/505501)  
 * **License**: MIT License  
+
+### 外部ライブラリ・商標について / External Assets & Trademarks
+
+* **GitHub Logos**: GitHub, Inc. の商標または登録商標です  
+  本ツールはGitHub公式のサービス・ツールではありません  
+  GitHub and its logo are trademarks of GitHub, Inc.  
+  This script is an unofficial third-party tool and is not affiliated with or endorsed by GitHub, Inc.  
+* **Heroicons**: [MIT License](https://github.com/tailwindlabs/heroicons/blob/master/LICENSE) (© Tailwind Labs, Inc.) に基づいて使用しています  
+  Used under the [MIT License](https://github.com/tailwindlabs/heroicons/blob/master/LICENSE) (© Tailwind Labs, Inc.).  
 
 ---
 
@@ -114,9 +124,16 @@ Furthermore, we are actively submitting **Malware / Abuse Reports** to relevant 
 
 ---
 
-## 開発者 (Author)  
+### 開発者 / Credits  
 
-**ねおん (Neon)**  
+* **Executive Producer & Lead Architect**: ねおん (Neon)  
+* **Assistant & Core Developer**: Gemini  
+* **Special Thanks**:  
+  * **Ecosystem Platform**: [GitHub](https://github.com/)  
+  * **Icon Libraries & Resources**:  
+    * **Symbol of Open Source & Code**: [GitHub Logos](https://github.com/logos)  
+    * **Handcrafted SVG Icons by Tailwind Labs**: [Heroicons](https://heroicons.com/)  
+
 <pre>
 <img src="https://www.google.com/s2/favicons?domain=bsky.app&size=16" alt="Bluesky icon"> Bluesky       :<a href="https://bsky.app/profile/neon-ai.art/">https://bsky.app/profile/neon-ai.art/</a>
 <img src="https://www.google.com/s2/favicons?domain=github.com&size=16" alt="GitHub icon"> GitHub        :<a href="https://github.com/neon-aiart/">https://github.com/neon-aiart/</a>
@@ -124,9 +141,9 @@ Furthermore, we are actively submitting **Malware / Abuse Reports** to relevant 
 <img src="https://www.google.com/s2/favicons?domain=greasyfork.org&size=16" alt="Greasy Fork icon"> Greasy Fork   :<a href="https://greasyfork.org/ja/users/1494762/">https://greasyfork.org/ja/users/1494762/</a>
 <img src="https://www.google.com/s2/favicons?domain=zenn.dev&size=16" alt="Sizu icon"> Zenn Dev      :<a href="https://zenn.dev/neon_aiart/">https://zenn.dev/neon_aiart/</a>
 <img src="https://www.google.com/s2/favicons?domain=sizu.me&size=16" alt="Sizu icon"> Sizu Diary    :<a href="https://sizu.me/neon_aiart/">https://sizu.me/neon_aiart/</a>
-<img src="https://www.google.com/s2/favicons?domain=ofuse.me&size=16" alt="Ofuse icon"> Ofuse         :<a href="https://ofuse.me/neon/">https://ofuse.me/neon/</a>
+<img src="https://www.google.com/s2/favicons?domain=ofuse.me&size=16" alt="Ofuse icon"> OFUSE         :<a href="https://ofuse.me/neon/">https://ofuse.me/neon/</a>
 <img src="https://www.google.com/s2/favicons?domain=www.chichi-pui.com&size=16" alt="chichi-pui icon"> chichi-pui    :<a href="https://www.chichi-pui.com/users/neon/">https://www.chichi-pui.com/users/neon/</a>
-<img src="https://www.google.com/s2/favicons?domain=iromirai.jp&size=16" alt="iromirai icon"> iromirai      :<a href="https://iromirai.jp/creators/neon/">https://iromirai.jp/creators/neon/</a>
+<img src="https://www.google.com/s2/favicons?domain=iromirai.jp&size=16" alt="iromirai icon"> IROMIRAI      :<a href="https://iromirai.jp/creators/neon/">https://iromirai.jp/creators/neon/</a>
 <img src="https://www.google.com/s2/favicons?domain=www.days-ai.com&size=16" alt="DaysAI icon"> DaysAI        :<a href="https://www.days-ai.com/users/lxeJbaVeYBCUx11QXOee/">https://www.days-ai.com/users/lxeJbaVeYBCUx11QXOee/</a>
 </pre>
 
